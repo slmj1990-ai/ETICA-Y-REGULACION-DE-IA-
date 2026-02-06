@@ -1,0 +1,64 @@
+id,sector,tipo_ia,nivel_autonomia,transparencia,riesgo_sesgo,impacto_social,privacidad_datos,explicabilidad,cumple_normativa,evaluacion_etica
+1,Salud,Diagnóstico automático,Alto,Media,Medio,Positivo,Alta,Media,Sí,Aceptable
+2,Finanzas,Scoring crediticio,Alto,Baja,Alto,Negativo,Media,Baja,No,No Aceptable
+3,Educación,Recomendador educativo,Medio,Alta,Bajo,Positivo,Alta,Alta,Sí,Aceptable
+4,Seguridad,Reconocimiento facial,Alto,Baja,Alto,Negativo,Baja,Baja,No,No Aceptable
+5,Marketing,Publicidad personalizada,Medio,Media,Medio,Neutro,Media,Media,Sí,Cuestionable
+6,RRHH,Filtrado de CV,Medio,Baja,Alto,Negativo,Media,Baja,No,No Aceptable
+7,Transporte,Conducción autónoma,Alto,Media,Medio,Positivo,Alta,Media,Sí,Cuestionable
+8,Salud,Chatbot médico,Medio,Alta,Bajo,Positivo,Alta,Alta,Sí,Aceptable
+9,Justicia,Predicción de reincidencia,Alto,Baja,Alto,Negativo,Baja,Baja,No,No Aceptable
+10,Comercio,Recomendador de productos,Bajo,Alta,Bajo,Neutro,Media,Alta,Sí,Aceptable
+11,Banca,Detección de fraude,Alto,Media,Medio,Positivo,Alta,Media,Sí,Aceptable
+12,Redes Sociales,Moderación de contenido,Medio,Media,Medio,Neutro,Media,Media,Sí,Cuestionable
+13,Industria,Mantenimiento predictivo,Medio,Alta,Bajo,Positivo,Alta,Alta,Sí,Aceptable
+14,Gobierno,Asignación de ayudas,Alto,Baja,Alto,Negativo,Media,Baja,No,No Aceptable
+15,Salud,Predicción de epidemias,Alto,Alta,Bajo,Positivo,Alta,Media,Sí,Aceptable
+16,Educación,Proctoring automático,Medio,Baja,Medio,Negativo,Media,Baja,No,Cuestionable
+17,Finanzas,Trading algorítmico,Alto,Media,Medio,Neutro,Alta,Media,Sí,Cuestionable
+18,Seguros,Evaluación de riesgos,Medio,Media,Alto,Negativo,Media,Media,No,No Aceptable
+19,Smart Cities,Vigilancia urbana,Alto,Baja,Alto,Negativo,Baja,Baja,No,No Aceptable
+20,Atención al cliente,Chatbot,Bajo,Alta,Bajo,Positivo,Media,Alta,Sí,Aceptable
+21,Salud,Análisis de imágenes médicas,Alto,Media,Medio,Positivo,Alta,Media,Sí,Aceptable
+22,Educación,Evaluación automática,Medio,Media,Medio,Neutro,Media,Media,Sí,Cuestionable
+23,RRHH,Análisis de desempeño,Bajo,Alta,Bajo,Positivo,Media,Alta,Sí,Aceptable
+24,Marketing,Segmentación de clientes,Medio,Media,Medio,Neutro,Media,Media,Sí,Cuestionable
+25,Justicia,Asignación de sentencias,Alto,Baja,Alto,Negativo,Baja,Baja,No,No Aceptable
+26,Finanzas,Asesor financiero automático,Medio,Alta,Medio,Positivo,Alta,Media,Sí,Aceptable
+27,Salud,Gestión hospitalaria,Medio,Alta,Bajo,Positivo,Alta,Alta,Sí,Aceptable
+28,Seguridad,Análisis predictivo de delitos,Alto,Baja,Alto,Negativo,Baja,Baja,No,No Aceptable
+29,Industria,Robots colaborativos,Alto,Media,Medio,Positivo,Alta,Media,Sí,Cuestionable
+30,Comercio,Optimización de precios,Alto,Baja,Alto,Negativo,Media,Baja,No,No Aceptable
+31,Transporte,Gestión de tráfico,Medio,Alta,Bajo,Positivo,Alta,Alta,Sí,Aceptable
+32,Gobierno,Detección de fraude fiscal,Alto,Media,Medio,Positivo,Alta,Media,Sí,Aceptable
+33,Redes Sociales,Recomendador de contenido,Medio,Baja,Alto,Negativo,Media,Baja,No,Cuestionable
+34,Salud,Monitorización remota,Medio,Alta,Bajo,Positivo,Alta,Alta,Sí,Aceptable
+35,Educación,Orientación vocacional,Bajo,Alta,Bajo,Positivo,Media,Alta,Sí,Aceptable
+36,RRHH,Predicción de rotación,Medio,Media,Medio,Neutro,Media,Media,Sí,Cuestionable
+37,Finanzas,Evaluación de préstamos,Alto,Baja,Alto,Negativo,Media,Baja,No,No Aceptable
+38,Seguros,Gestión de siniestros,Medio,Alta,Bajo,Positivo,Alta,Alta,Sí,Aceptable
+39,Smart Cities,Gestión energética,Medio,Alta,Bajo,Positivo,Alta,Alta,Sí,Aceptable
+40,Seguridad,Control fronterizo,Alto,Baja,Alto,Negativo,Baja,Baja,No,No Aceptable
+41,Salud,Asistente clínico,Medio,Alta,Bajo,Positivo,Alta,Alta,Sí,Aceptable
+42,Marketing,Análisis de emociones,Medio,Baja,Alto,Negativo,Media,Baja,No,Cuestionable
+43,Industria,Control de calidad,Medio,Alta,Bajo,Positivo,Alta,Alta,Sí,Aceptable
+44,Gobierno,Análisis de políticas públicas,Medio,Alta,Bajo,Positivo,Alta,Alta,Sí,Aceptable
+45,Educación,Personalización de contenidos,Medio,Alta,Bajo,Positivo,Media,Alta,Sí,Aceptable
+46,RRHH,Entrevistas automatizadas,Medio,Baja,Alto,Negativo,Media,Baja,No,No Aceptable
+47,Finanzas,Gestión de carteras,Alto,Media,Medio,Neutro,Alta,Media,Sí,Cuestionable
+48,Comercio,Predicción de demanda,Medio,Alta,Bajo,Positivo,Alta,Alta,Sí,Aceptable
+49,Salud,Análisis genético,Alto,Baja,Alto,Negativo,Baja,Baja,No,No Aceptable
+50,Seguridad,Detección de amenazas,Alto,Media,Medio,Positivo,Alta,Media,Sí,Cuestionable
+51,Transporte,Optimización de rutas,Medio,Alta,Bajo,Positivo,Alta,Alta,Sí,Aceptable
+52,Redes Sociales,Análisis de comportamiento,Medio,Baja,Alto,Negativo,Media,Baja,No,Cuestionable
+53,Industria,Planificación de producción,Medio,Alta,Bajo,Positivo,Alta,Alta,Sí,Aceptable
+54,Gobierno,Voto electrónico,Alto,Baja,Alto,Negativo,Baja,Baja,No,No Aceptable
+55,Salud,Triaje automático,Alto,Media,Medio,Cuestionable,Alta,Media,Sí,Cuestionable
+56,Educación,Detección de plagio,Medio,Alta,Bajo,Positivo,Media,Alta,Sí,Aceptable
+57,Finanzas,Análisis de riesgo macroeconómico,Alto,Media,Medio,Neutro,Alta,Media,Sí,Cuestionable
+58,Seguros,Personalización de pólizas,Medio,Media,Medio,Neutro,Media,Media,Sí,Cuestionable
+59,Smart Cities,Gestión de residuos,Medio,Alta,Bajo,Positivo,Alta,Alta,Sí,Aceptable
+60,Atención al cliente,Asistente virtual avanzado,Medio,Alta,Bajo,Positivo,Media,Alta,Sí,Aceptable
+
+
+push

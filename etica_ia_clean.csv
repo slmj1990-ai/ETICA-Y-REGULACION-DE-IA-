@@ -1,0 +1,63 @@
+sector,tipo_ia,nivel_autonomia,transparencia,riesgo_sesgo,impacto_social,privacidad_datos,explicabilidad,cumple_normativa,evaluacion_etica
+salud,diagnóstico automático,alto,media,medio,positivo,alta,media,sí,aceptable
+finanzas,scoring crediticio,alto,baja,alto,negativo,media,baja,no,no aceptable
+educación,recomendador educativo,medio,alta,bajo,positivo,alta,alta,sí,aceptable
+seguridad,reconocimiento facial,alto,baja,alto,negativo,baja,baja,no,no aceptable
+marketing,publicidad personalizada,medio,media,medio,neutro,media,media,sí,cuestionable
+rrhh,filtrado de cv,medio,baja,alto,negativo,media,baja,no,no aceptable
+transporte,conducción autónoma,alto,media,medio,positivo,alta,media,sí,cuestionable
+salud,chatbot médico,medio,alta,bajo,positivo,alta,alta,sí,aceptable
+justicia,predicción de reincidencia,alto,baja,alto,negativo,baja,baja,no,no aceptable
+comercio,recomendador de productos,bajo,alta,bajo,neutro,media,alta,sí,aceptable
+banca,detección de fraude,alto,media,medio,positivo,alta,media,sí,aceptable
+redes sociales,moderación de contenido,medio,media,medio,neutro,media,media,sí,cuestionable
+industria,mantenimiento predictivo,medio,alta,bajo,positivo,alta,alta,sí,aceptable
+gobierno,asignación de ayudas,alto,baja,alto,negativo,media,baja,no,no aceptable
+salud,predicción de epidemias,alto,alta,bajo,positivo,alta,media,sí,aceptable
+educación,proctoring automático,medio,baja,medio,negativo,media,baja,no,cuestionable
+finanzas,trading algorítmico,alto,media,medio,neutro,alta,media,sí,cuestionable
+seguros,evaluación de riesgos,medio,media,alto,negativo,media,media,no,no aceptable
+smart cities,vigilancia urbana,alto,baja,alto,negativo,baja,baja,no,no aceptable
+atención al cliente,chatbot,bajo,alta,bajo,positivo,media,alta,sí,aceptable
+salud,análisis de imágenes médicas,alto,media,medio,positivo,alta,media,sí,aceptable
+educación,evaluación automática,medio,media,medio,neutro,media,media,sí,cuestionable
+rrhh,análisis de desempeño,bajo,alta,bajo,positivo,media,alta,sí,aceptable
+marketing,segmentación de clientes,medio,media,medio,neutro,media,media,sí,cuestionable
+justicia,asignación de sentencias,alto,baja,alto,negativo,baja,baja,no,no aceptable
+finanzas,asesor financiero automático,medio,alta,medio,positivo,alta,media,sí,aceptable
+salud,gestión hospitalaria,medio,alta,bajo,positivo,alta,alta,sí,aceptable
+seguridad,análisis predictivo de delitos,alto,baja,alto,negativo,baja,baja,no,no aceptable
+industria,robots colaborativos,alto,media,medio,positivo,alta,media,sí,cuestionable
+comercio,optimización de precios,alto,baja,alto,negativo,media,baja,no,no aceptable
+transporte,gestión de tráfico,medio,alta,bajo,positivo,alta,alta,sí,aceptable
+gobierno,detección de fraude fiscal,alto,media,medio,positivo,alta,media,sí,aceptable
+redes sociales,recomendador de contenido,medio,baja,alto,negativo,media,baja,no,cuestionable
+salud,monitorización remota,medio,alta,bajo,positivo,alta,alta,sí,aceptable
+educación,orientación vocacional,bajo,alta,bajo,positivo,media,alta,sí,aceptable
+rrhh,predicción de rotación,medio,media,medio,neutro,media,media,sí,cuestionable
+finanzas,evaluación de préstamos,alto,baja,alto,negativo,media,baja,no,no aceptable
+seguros,gestión de siniestros,medio,alta,bajo,positivo,alta,alta,sí,aceptable
+smart cities,gestión energética,medio,alta,bajo,positivo,alta,alta,sí,aceptable
+seguridad,control fronterizo,alto,baja,alto,negativo,baja,baja,no,no aceptable
+salud,asistente clínico,medio,alta,bajo,positivo,alta,alta,sí,aceptable
+marketing,análisis de emociones,medio,baja,alto,negativo,media,baja,no,cuestionable
+industria,control de calidad,medio,alta,bajo,positivo,alta,alta,sí,aceptable
+gobierno,análisis de políticas públicas,medio,alta,bajo,positivo,alta,alta,sí,aceptable
+educación,personalización de contenidos,medio,alta,bajo,positivo,media,alta,sí,aceptable
+rrhh,entrevistas automatizadas,medio,baja,alto,negativo,media,baja,no,no aceptable
+finanzas,gestión de carteras,alto,media,medio,neutro,alta,media,sí,cuestionable
+comercio,predicción de demanda,medio,alta,bajo,positivo,alta,alta,sí,aceptable
+salud,análisis genético,alto,baja,alto,negativo,baja,baja,no,no aceptable
+seguridad,detección de amenazas,alto,media,medio,positivo,alta,media,sí,cuestionable
+transporte,optimización de rutas,medio,alta,bajo,positivo,alta,alta,sí,aceptable
+redes sociales,análisis de comportamiento,medio,baja,alto,negativo,media,baja,no,cuestionable
+industria,planificación de producción,medio,alta,bajo,positivo,alta,alta,sí,aceptable
+gobierno,voto electrónico,alto,baja,alto,negativo,baja,baja,no,no aceptable
+salud,triaje automático,alto,media,medio,cuestionable,alta,media,sí,cuestionable
+educación,detección de plagio,medio,alta,bajo,positivo,media,alta,sí,aceptable
+finanzas,análisis de riesgo macroeconómico,alto,media,medio,neutro,alta,media,sí,cuestionable
+seguros,personalización de pólizas,medio,media,medio,neutro,media,media,sí,cuestionable
+smart cities,gestión de residuos,medio,alta,bajo,positivo,alta,alta,sí,aceptable
+atención al cliente,asistente virtual avanzado,medio,alta,bajo,positivo,media,alta,sí,aceptable
+
+para push
