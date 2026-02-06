@@ -59,3 +59,6 @@ id,sector,tipo_ia,nivel_autonomia,transparencia,riesgo_sesgo,impacto_social,priv
 58,Seguros,Personalización de pólizas,Medio,Media,Medio,Neutro,Media,Media,Sí,Cuestionable
 59,Smart Cities,Gestión de residuos,Medio,Alta,Bajo,Positivo,Alta,Alta,Sí,Aceptable
 60,Atención al cliente,Asistente virtual avanzado,Medio,Alta,Bajo,Positivo,Media,Alta,Sí,Aceptable
+
+
+push
